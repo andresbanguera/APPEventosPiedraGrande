@@ -6,14 +6,14 @@
         id        = "com.eventospiedragrande.app"
         version   = "1.0.3">
 
-    <name>APP EventosPiedraGrande</name>
+    <name>EventosPiedraGrande</name>
 
     <description>
-        APP EventosPiedraGrande
+        EventosPiedraGrande
     </description>
 
     <author href="http://app.eventospiedragrande.com" email="info@eventospiedragrande.com">
-        APP EventosPiedraGrande
+        EventosPiedraGrande
     </author>
 
     <!--
